@@ -1,0 +1,18 @@
+p{
+    margin: 10px auto;
+    text-align: center;
+    width: 300px;
+}
+b{
+    color:blueviolet;
+}
+
+body{
+   background-image: url(imagenes/fondo.jpg);
+   /*background-color:black;*/
+    text-align: center;
+}
+
+h3{
+    color: orange;
+}

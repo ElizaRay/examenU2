@@ -1,0 +1,24 @@
+p{
+    margin: 10px auto;
+    text-align: center;
+    width: 300px;
+    color: fuchsia;
+    text-transform: uppercase;
+}
+b{
+    color:blueviolet;
+}
+
+body{
+   background-image: url(imagenes/fondo-registro.jpg);
+   /*background-color:black;*/
+    text-align: center;
+}
+
+h2{
+    color:blanchedalmond ;
+}
+
+th{
+    color: orange;
+}
